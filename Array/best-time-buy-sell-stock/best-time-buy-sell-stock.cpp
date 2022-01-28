@@ -1,8 +1,8 @@
-/*
-Author: Vindru
-Problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-
-Logic: complexity O(n), keep track of profit all time
+/**
+ * Author: Vindru
+ * Problem: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+ * 
+ * Logic: complexity O(n), keep track of profit all time
 */
 
 class Solution
