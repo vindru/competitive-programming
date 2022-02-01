@@ -6,6 +6,14 @@
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] [Contains duplicate](https://leetcode.com/problems/contains-duplicate/submissions/)
 
+## Dynamic Programming
+
+- [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+### Linked List
+
+- [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
 ### Tree
 
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
