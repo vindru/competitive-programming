@@ -9,6 +9,7 @@
 ## Dynamic Programming
 
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [x] [Coin Change](https://leetcode.com/problems/coin-change/)
 
 ### Linked List
 
