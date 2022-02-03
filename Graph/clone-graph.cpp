@@ -1,10 +1,8 @@
 /**
  * Author: Vindru
- * Problem: https://leetcode.com/problems/reverse-linked-list
+ * Problem: (https://leetcode.com/problems/clone-graph/)
  * 
- * 
- * Logic: complexity O(n)
- * Definition for singly-linked list.
+ *
  * class Node {
 public:
     int val;
