@@ -6,10 +6,14 @@
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] [Contains duplicate](https://leetcode.com/problems/contains-duplicate/submissions/)
 
-## Dynamic Programming
+### Dynamic Programming
 
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [x] [Coin Change](https://leetcode.com/problems/coin-change/)
+
+### Graph
+
+- [x] [Clone Graph](https://leetcode.com/problems/clone-graph/)
 
 ### Linked List
 
