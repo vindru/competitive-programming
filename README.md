@@ -13,7 +13,8 @@
 
 ### Graph
 
-- [x] [Clone Graph](https://leetcode.com/problems/clone-graph/)
+- [x] [Clone Graph](https://leetcode.com/problems/clone-graph/) -resubmit
+- [x] [Course Schedule](https://leetcode.com/problems/course-schedule/) -resubmit
 
 ### Linked List
 
