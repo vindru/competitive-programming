@@ -1,5 +1,11 @@
 # Competitive-programming
 
+### Process
+
+1. Do a problem with optimal solution.
+2. Verify if it’s an optimal solution after submitting.
+3. Solve it using optimal solution.
+
 ### Array
 
 - [x] [Two Sum Problem](https://leetcode.com/problems/two-sum/)
@@ -23,7 +29,7 @@
 
 ## Matrix
 
-- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 
 ### Tree
 
