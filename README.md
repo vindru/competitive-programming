@@ -21,6 +21,10 @@
 
 - [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
+## Matrix
+
+- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+
 ### Tree
 
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
