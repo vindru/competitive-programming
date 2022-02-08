@@ -12,6 +12,10 @@
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] [Contains duplicate](https://leetcode.com/problems/contains-duplicate/submissions/)
 
+## Binary
+
+- [x] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+
 ### Dynamic Programming
 
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
