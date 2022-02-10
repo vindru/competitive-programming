@@ -1,6 +1,6 @@
 /**
  * Author: Vindru
- * Problem: https://leetcode.com/problems/number-of-1-bits/
+ * Problem: https://leetcode.com/problems/counting-bits
  * 
  * 
  * Time Complexity O(1)
