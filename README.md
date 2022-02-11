@@ -29,6 +29,10 @@
 - [x] [Course Schedule](https://leetcode.com/problems/course-schedule/) -resubmit
 - [x] [Find Redundant Connection](https://leetcode.com/problems/redundant-connection/submissions/)
 
+## Interval
+
+- [x] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+
 ### Linked List
 
 - [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
