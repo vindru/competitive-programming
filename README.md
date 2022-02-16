@@ -23,6 +23,11 @@
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [x] [Coin Change](https://leetcode.com/problems/coin-change/)
 
+### Google Kickstart Test Round 1 - 2022
+
+- [x] [Sample](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000942404)
+- [x] [Centauri Prime](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008f4332/0000000000941ec5)
+
 ### Graph
 
 - [x] [Clone Graph](https://leetcode.com/problems/clone-graph/) -resubmit
