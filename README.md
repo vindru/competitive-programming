@@ -12,7 +12,7 @@
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - [Solution](Array/contains-duplicate/contains-duplicate.cpp)
 - [x] [Contains duplicate](https://leetcode.com/problems/contains-duplicate/submissions/) - [Solution](Array/twosum/twoSum.cpp)
 
-## Binary
+### Binary
 
 - [x] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) - [Solution](Binary/sum-of-two-integers.cpp)
 - [x] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) - [Solution](Binary/hammer-weight.cpp)
@@ -35,7 +35,7 @@
 - [x] [Find Redundant Connection](https://leetcode.com/problems/redundant-connection/submissions/) - [Solution](Graph/redundant-connection.cpp)
 - [x] [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) - [Solution](Graph/pacific-atlantic-water-flow.cpp)
 
-## Interval
+### Interval
 
 - [x] [Insert Interval](https://leetcode.com/problems/insert-interval/) - [Solution](Interval/insert-interval.cpp)
 
@@ -44,12 +44,12 @@
 - [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) - [Solution](Linkedlist/linked-list-cycle.cpp)
 - [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) - [Solution](Linkedlist/linked-list-cycle.cpp)
 
-## Matrix
+### Matrix
 
 - [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) - [Solution](matrix/set-matrix-zeroes.cpp)
 - [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/submissions/) - [Solution](matrix/spiral-matrix.cpp)
 
-## String
+### String
 
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - [Solution](String/longest-substring.cpp)
 
