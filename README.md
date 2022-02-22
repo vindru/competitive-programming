@@ -23,6 +23,7 @@
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - [Solution](DP/climbing-stairs.cpp)
 - [x] [Coin Change](https://leetcode.com/problems/coin-change/) - [Solution](DP/coin-changes.cpp)
 - [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) - [Solution](DP/longest-increasing-subsequence.cpp)
+- [x] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) - [Solution](DP/lcs.cpp)
 
 ### Google Kickstart Test Round 1 - 2022
 
