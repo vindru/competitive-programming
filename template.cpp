@@ -34,19 +34,15 @@ int main()
     ios_base::sync_with_stdio(0);
     cin.tie(0);
     cout.tie(0);
-    int tc;
+    int tc, temp;
     cin >> tc;
+    vector<int> bags;
     for (int t = 1; t <= tc; t++)
     {
-        int n, m, temp;
         vector<int> bags;
-        cin >> n >> m;
-        for (int i = 0; i < n; i++)
-        {
-            cin >> temp;
-            bags.push_back(temp);
-        }
-        int res = solve(bags, m);
-        cout << "Case #" << t << ": " << res << "\n";
+        cin >> temp;
+        bags.push_back(temp);
     }
+    int res = solve(bags, tc);
+    cout << res;
 }
